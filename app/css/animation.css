@@ -1,0 +1,48 @@
+@-webkit-keyframes moveleft {
+  from {
+    left: 240px;
+  }
+  to {
+    left: 250px;
+  }
+}
+@keyframes moveleft {
+  from {
+    left: 240px;
+  }
+  to {
+    left: 250px;
+  }
+}
+@-webkit-keyframes moveright {
+  from {
+    right: 35px;
+  }
+  to {
+    right: 40px;
+  }
+}
+@keyframes moveright {
+  from {
+    right: 35px;
+  }
+  to {
+    right: 40px;
+  }
+}
+@-webkit-keyframes opacity {
+  from {
+    opacity: 0.5;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes opacity {
+  from {
+    opacity: 0.5;
+  }
+  to {
+    opacity: 1;
+  }
+}

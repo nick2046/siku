@@ -1,0 +1,153 @@
+{
+	"array":[
+		{
+			"f_tit":["包袋","更多包袋","HERMES","CHANEL","LV","PRADA","GUCCI","COACH","BURBERRY"],
+			"section":
+				{
+					"h":["涨价之前","GUCCI/古驰","FENDI/芬迪","FENDI/芬迪","Salvatore Ferragamo/菲拉格慕","FURLA/芙拉"],
+					"s":["Gucci BVLGARI经典款赶紧入手","品牌限时特惠","品牌特惠"],
+					"img":["../img/goods-list1.jpg","../img/goods-list2.jpg","../img/goods-list3.jpg","../img/goods-list4.jpg","../img/goods-list5.jpg","../img/goods-list6.jpg"]
+				}
+		},
+		{
+			"f_tit":["腕表","更多腕表","百达翡丽","劳力士","卡地亚","欧米茄","浪琴","积家","万国"],
+			"section":
+				{
+					"h":["一块表就能顺利脱单","OMEGA/欧米茄","IWC/万国","Audemars Piguet/爱彼","ANNE KLEIN/安妮克莱因","RADO/雷达"],
+					"s":["1111单身节戴表有讲究","限时特惠","品牌精选"],
+					"img":["../img/a1.jpg","../img/a2.jpg","../img/a3.jpg","../img/a4.jpg","../img/a5.jpg","../img/a6.jpg"]
+				}
+		},
+		{
+			"f_tit":["服装","更多服装","BURBERRY","HUGO BOSS","VERSACE","Dolce&Gabbana"],
+			"section":
+				{
+					"h":["大牌男士针织衫","AI RIDERS ON THE STORM","kenzo","CANALI/康纳利","迪伽默","VERRI"],
+					"s":["全场直降","羽绒服","品牌精选"],
+					"img":["../img/b1.jpg","../img/b2.jpg","../img/b3.jpg","../img/b4.jpg","../img/b5.jpg","../img/b6.jpg"]
+				}
+		},
+		{
+			"f_tit":["鞋靴","更多鞋靴","Ferragamo","PRADA","TOD'S","Dolce&Gabbana","BALLY"," Calvin Klein Collection"],
+			"section":
+				{
+					"h":["夏秋大牌女士单鞋清仓","Calvin Klein Collection","Armani","CHARRIOL","BENATIVE/本那","LANDAX"],
+					"s":["最高直降3000元","时尚潮流男鞋","品牌精选"],
+					"img":["http://pic12.secooimg.com/push/16/10/7d717003fbc4461082e2bb2969a96fda.jpg","http://pic13.secooimg.com/push/16/10/191dc38b37ee49e6acac624c71d53928.jpg","http://pic10.secooimg.com/push/16/11/f36517b5a9944198ac7c4f206ceb5193.jpg","http://pic13.secooimg.com/push/16/10/f96f5fd00bd942199ff663961e9bdca0.jpg","http://pic12.secooimg.com/push/16/10/0fc46565631b4ded97eab181885e4f05.jpg","http://pic11.secooimg.com/push/16/10/a7b805a9580640a4bfa9971b64aa17ae.jpg"]
+				}
+		},
+		{
+			"f_tit":["配饰","更多配饰","Ray-Ban","FERRAGAMO","BURBERRY","VERSACE","Hermès"],
+			"section":
+				{
+					"h":["Coach、Gucci","围巾精选","Salvatore Ferragamo/菲拉格慕","Ray-Ban/雷朋","领带精选","围巾精选"],
+					"s":["女士围巾1999封顶","",""],
+					"img":["http://pic12.secooimg.com/push/16/10/9141961567604559910b49807f61faeb.jpg",
+						"http://pic11.secooimg.com/push/16/11/bfe1c7cf14794d7990c713348d3133bc.jpg",
+						"http://pic13.secooimg.com/push/16/11/5fb03c5637b646088390595b2ad4d572.jpg",
+						"http://pic14.secooimg.com/push/16/11/7cec648b29c6495ca7e104b9b35529c1.jpg",
+						"http://pic13.secooimg.com/push/16/11/d1f9fb1587554b5e92c4d72bfce3f0ca.jpg",
+						"http://pic10.secooimg.com/push/16/11/bf698b8e1dd9432a8149f71161322816.jpg"]
+				}
+		},
+		{
+			"f_tit":["首饰","更多首饰","HERMES","CARTIER","Bvlgari","VERTiffany & Co.SACE","Swarovski"],
+			"section":
+				{
+					"h":["珠宝首饰1399元起","APM Monaco/APM Monaco","Vivienne Westwood/维维安韦斯特伍德","PANDORA/潘多拉","daisy london/daisy london ","Swarovski/施华洛世奇"],
+					"s":["品牌精选","品牌精选","品牌精选"],
+					"img":["http://pic12.secooimg.com/push/16/11/901da3dae5524731ac11a63736f9ab0c.jpg",
+						"http://pic10.secooimg.com/push/16/11/b3458f4ded474bbe80d720ed87ba1f4a.jpg",
+						"http://pic14.secooimg.com/push/16/11/38ab6257355542e2bb93d9ff60d263f9.jpg",
+						"http://pic10.secooimg.com/push/16/11/a909296b725347f694269dca0c3d8f1d.jpg",
+						"http://pic11.secooimg.com/push/16/11/7094077c30f640d6951859808002c053.jpg",
+						"http://pic13.secooimg.com/push/16/11/77d127cd06d94935abd1e678040937d8.jpg"]
+				}
+		},
+		{
+			"f_tit":["家居生活","更多家居生活","ZIPPO","ZWILLING","OrangeLife","Beats","philips","Downia"],
+			"section":
+				{
+					"h":["个护电器299元起","YOLANNA 床上用品专场","数码智能专场","万宝龙笔具专场","菲仕乐专场","创意地球仪专场"],
+					"s":["","",""],
+					"img":["http://pic12.secooimg.com/push/16/11/841ce9742bc042458254d05447202949.jpg",
+						"http://pic14.secooimg.com/push/16/11/d1d91d7b7c46430db36be8089eea2971.jpg",
+						"http://pic12.secooimg.com/push/16/11/477370ea7a484c9897eba63952b2ead1.jpg",
+						"http://pic10.secooimg.com/push/16/11/f66998dc0c384f2b8ea059bdf20abaa6.jpg",
+						"http://pic11.secooimg.com/push/16/11/8bed3d3f897f464aaae8df271bdc85e7.jpg",
+						"http://pic11.secooimg.com/push/16/11/5ccf06fb67424014b61614e63d903ae4.jpg"]
+				}
+		},
+		{
+			"f_tit":["户外运动","更多户外运动","ARCTERYX","MARMOT","SALOMON","Skora","Osprey","The North Face"],
+			"section":
+				{
+					"h":["BURTON背包满1000件减200","RELLECIGA/俪丝娅","Skora/Skora","VIVOBAREFOOT/唯我赤足","VILL/VILL","Quiksilver/Quiksilver"],
+					"s":["户外界的颜值担当","穿出曲线","跑鞋专场"],
+					"img":["http://pic13.secooimg.com/push/16/11/8896cf8892cd495b9c0acfdb8de7685d.jpg",
+						"http://pic11.secooimg.com/push/16/10/7688a6e162114837accb3784850df85c.jpg",
+						"http://pic10.secooimg.com/push/16/10/245a1e790cb4484ab1d916bd08c5c0bc.jpg",
+						"http://pic12.secooimg.com/push/16/10/4e051489a9564ae5b1a67d60e76376af.jpg",
+						"http://pic10.secooimg.com/push/16/10/fcdb7c0f674648e4b1d1ddba6d9fe904.jpg",
+						"http://pic13.secooimg.com/push/16/10/686fab0da9ae485ca7badac2d4bd3761.jpg"]
+				}
+		},
+		{
+			"f_tit":["美妆成人","更多美妆成人","Anna sui","Max Factor","LEADERS","SHISEIDO","LELO","Charmzone"],
+			"section":
+				{
+					"h":["变美真的不费力","Sulwhasoo/雪花秀","DIOR/迪奥","Lancome/兰蔻","Sisley/希思黎","Biotherm/碧欧泉"],
+					"s":["兰蔻美肌全系7折","品牌精选","新品上线"],
+					"img":["http://pic12.secooimg.com/push/16/10/220a523668544d40b4e2e4ed48b707cb.jpg",
+						"http://pic14.secooimg.com/push/16/11/6591c91967dd4a0f83a48ece4fa2939a.jpg",
+						"http://pic14.secooimg.com/push/16/11/e55b84830926400c9396646b55a80c48.jpg",
+						"http://pic13.secooimg.com/push/16/11/d2cec29d1b9f4285b391e98e6b0ad094.jpg",
+						"http://pic11.secooimg.com/push/16/11/46b83c3ec67e4ba29a48f0eb991541f9.jpg",
+						"http://pic10.secooimg.com/push/16/11/c67111bc89ad4b5a82b425df936364e4.jpg"]
+				}
+		},
+		{
+			"f_tit":["母婴玩具","更多母婴玩具","NUK","欧洲宝贝","露安适","Attipas/阿弟葩","littlelife","Hape"],
+			"section":
+				{
+					"h":["Kenzo Burberry","Hanakimi/Hanakimi","DERECHTE SCOUT","爱多康","DAVID CHARLES","Anne Geddes"],
+					"s":["大牌童装千元封顶","为公主而生","体贴呵护"],
+					"img":["http://pic13.secooimg.com/push/16/9/be7cad977833446dac2f15f8aa143bc9.jpg",
+						"http://pic10.secooimg.com/push/16/10/217e7138c3ca4bcd94337efbea8d8d7a.jpg",
+						"http://pic12.secooimg.com/push/16/10/30263984ebec48d1be05f3a909a06a0a.jpg",
+						"http://pic10.secooimg.com/push/16/10/6bc3fd222fa0418996a1643a7f787209.jpg",
+						"http://pic12.secooimg.com/push/16/10/763ae9dae01a4c9daf78da9e22a718cf.jpg",
+						"http://pic11.secooimg.com/push/16/10/40ef28253a544e19924ce9da6cee8c27.jpg"]
+				}
+		},
+		{
+			"f_tit":["中国精品","更多中国精品","内联升","上久楷","云帛","看见民生","周氏龙泉剑","金色度母"],
+			"section":
+				{
+					"h":["高端礼品首选宋锦精品上久楷","素木","如是净莲","观颐斋","金昭玉粹","新绎大观"],
+					"s":["","脱胎于传统","点滴匠心"],
+					"img":["http://pic12.secooimg.com/push/16/10/57c109917b104eb798c055ef9ad5827f.jpg",
+						"http://pic13.secooimg.com/push/16/11/0f4a4eb3a6bb469aaaca9d5721e41177.jpg",
+						"http://pic14.secooimg.com/push/16/11/5fd4cda60f6c4c049a8d4207ddd57510.jpg",
+						"http://pic12.secooimg.com/push/16/11/08083bd14a294ce1b44d103829a57037.jpg",
+						"http://pic11.secooimg.com/push/16/11/91bfca6d0cfb4bd0bc4935a5ffb3e282.jpg",
+						"http://pic10.secooimg.com/push/16/11/c38e665805194d6dbc40eaa419cbf154.jpg"]
+				}
+		},
+		{
+			"f_tit":["豪车","更多豪车","新车","二手车","平行进口车","飞机游艇","无人机","豪车生活","赛道服饰"],
+			"section":
+				{
+					"h":["百年玛莎","法拉利专场","宝马专场","阿斯顿马丁专场","豪车精品专场","捷豹专场"],
+					"s":["当优雅融入你的生活"],
+					"img":["http://pic11.secooimg.com/push/16/8/f8695cc345db4032a0a1b396968575ce.jpg",
+						"http://pic14.secooimg.com/push/16/11/f16202b820d6497d82a3f30f168a9914.jpg",
+						"http://pic11.secooimg.com/push/16/11/22098107a80049f3975ee632f87562e8.jpg",
+						"http://pic13.secooimg.com/push/16/11/611eb38d5c4f4a9aa8cc6e9274b83a9a.jpg",
+						"http://pic12.secooimg.com/push/16/11/6d9d3e9c8dcc4f01a5317b56162fed60.jpg",
+						"http://pic13.secooimg.com/push/16/11/3523d8a289754870bc47159a033de978.jpg"]
+				}
+		}
+
+	]	
+}
